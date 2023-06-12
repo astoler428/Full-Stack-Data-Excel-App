@@ -9,3 +9,6 @@ Used in this project:
 -React Router with nested routes
 -API calls to backend
 -Controlled form components
+
+ -Deployed with netlify at https://ari-full-stack-excel-app.netlify.app
+-Can also be run locally on http://localhost:3000 otherwise CORS error

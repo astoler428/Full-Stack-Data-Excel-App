@@ -1,9 +1,9 @@
-MongoDB version of Full-Stack-Data-Excel-App
+MongoDB version of the Full-Stack-Data-Excel-App made for a client.
 
 Back end is written using Node/Express and MongoDB/Mongoose
   -API deployed with render.com at https://full-stack-excel-app-mongodb.onrender.com
 
-Front end is written in React
-  -Deployed with netlify at 
-  -Can also be run on localhost
+Front end is written using React
+  -Front end deployed with netlify at https://ari-full-stack-excel-app.netlify.app
+  -Can also be run locally on http://localhost:3000 otherwise CORS error
 
