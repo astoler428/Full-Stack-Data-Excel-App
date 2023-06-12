@@ -5,5 +5,5 @@ Back end is written using Node/Express and MongoDB/Mongoose
 
 Front end is written using React
   -Front end deployed with netlify at https://ari-full-stack-excel-app.netlify.app
-  -Can also be run locally on http://localhost:3000 otherwise CORS error
+
 
