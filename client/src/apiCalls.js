@@ -1,6 +1,7 @@
 //all of the API calls to the backend in one file
 
-const PORT_URL = "http://localhost:3000";
+// const PORT_URL = "http://localhost:3000";
+const PORT_URL = "https://full-stack-excel-app-mongodb.onrender.com";
 
 export async function addData(formData) {
   await fetch(`${PORT_URL}/data/add`, {
